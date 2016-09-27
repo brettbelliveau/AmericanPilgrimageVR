@@ -6,3 +6,5 @@ Collaborators
 Brett Belliveau: brettbelliveau@outlook.com
 Sabrina Gutierrez: sabrinav379@gmail.com
 Brenton Lin: notnerb.94@gmail.com
+
+Project Webpage: http://brettbelliveau.github.io/AmericanPilgrimageVR/
